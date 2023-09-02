@@ -11,6 +11,14 @@ Welcome to ResumeWhisper AI Chatbot, your personal career assistant powered by a
 - **Personalized Recommendations:** Receive job recommendations based on your skills, experience, and career aspirations.
 - **Stay Updated:** Get industry insights, resume writing tips, and job market trends to stay ahead in your career.
 
+##output
+-**Page generated bt gracia**
+![Screenshot 2023-09-02 124332](https://github.com/Godaminator02/ResumeWhisper-AI_chatbot/assets/117902722/a7e8b24e-d5bd-4830-ab24-0080a3d6439e)
+-**input from user**
+![Screenshot 2023-09-02 124716](https://github.com/Godaminator02/ResumeWhisper-AI_chatbot/assets/117902722/258af16d-51ce-4f5b-98c5-c859a9f01f31)
+-**output from bot**
+![Screenshot 2023-09-02 124739](https://github.com/Godaminator02/ResumeWhisper-AI_chatbot/assets/117902722/73da39c1-6267-4e57-8fff-604dbccc643a)
+
 ## Usage
 
 Here's how you can utilize ResumeWhisper AI Chatbot to supercharge your career:
